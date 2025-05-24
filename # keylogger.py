@@ -1,8 +1,3 @@
-# keylogger.py
-# Educational Keylogger Example (Python)
-# Author: [Your Name]
-# License: MIT
-
 from pynput import keyboard
 import logging
 from datetime import datetime
